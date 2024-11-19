@@ -1,0 +1,8 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.banner{ 
+    background-image: linear-gradient(to right, #3a7bd5, #3a6073);
+}
